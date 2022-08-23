@@ -22,8 +22,7 @@
 
 ## Contact
 * email : wyverns9352@gmail.com
-* blog : softl.tistory.com
-* github : github.com/SingToLive
+* blog : [softl.tistory.com](https://softl.tistory.com)
 
 # Portfolio
 ## 🟪 Project

@@ -14,12 +14,16 @@
 * 내일배움카드 스파르타 코딩 클럽 AI 2회차 / 22.4 ~ 22.8 / Django 백엔드 개발자 양성 과정 수료
 * 카이스트 서초 AI 칼리지 / AI 개발자 양성 과정 수료 / 21.3 ~ 21.9
 
-
 **Certificate**
 * 22.1 / 노마드코더 JS 챌린지
 * 21.12 / 노마드코더 Python 챌린지
 * 21.12 / NIPA 인공지능 전문가
 * 20.9 / 건축기사
+
+## Contact
+* email : wyverns9352@gmail.com
+* blog : softl.tistory.com
+* github : github.com/SingToLive
 
 # Portfolio
 ## 🟪 Project

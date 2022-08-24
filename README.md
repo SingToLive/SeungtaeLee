@@ -30,7 +30,7 @@
 > 커뮤니티 웹 서비스 개발  
 > 
 > Front-end Stack  
->* Language : Javascript  
+>* Language : Javascript, HTML, CSS  
 >
 > Back-end Stack
 >* Language : Python

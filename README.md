@@ -29,9 +29,12 @@
 ### Team Project Damoa 22.7.14 ~ 22.8.16  
 > 커뮤니티 웹 서비스 개발  
 > 
-> Stack  
->* Language : Python, Javascript  
->* Framework : Django, DRF, Flask  
+> Front-end Stack  
+>* Language : Javascript  
+>
+> Back-end Stack
+>* Language : Python
+>* Framework : Django, DRF  
 >* Database : MySQL  
 >* Infra : AWS EC2, AWS S3, Docker
 >
@@ -42,11 +45,15 @@
 ### Team Project creepy_art_gallery 22.6.28 ~ 22.7.4
 >인공지능을 활용한 유화제작 프로젝트 개발  
 >
->Stack    
+>Front-end Stack    
 >* Language : Python, Javascript  
->* Framework : Django, DRF, Flask  
->* Database : MySQL  
+>* Framework : Django  
 >* Infra : Firebase  
+>
+>Back-end Stack    
+>* Language : Python
+>* Framework : Django, DRF  
+>* Database : MySQL  
 >
 >Link  
 >* [front-end](https://github.com/SingToLive/creepy_art_gallery_frontend)  

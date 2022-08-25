@@ -25,6 +25,8 @@
 * blog : [softl.tistory.com](https://softl.tistory.com)
 
 # Portfolio
+[링크](https://young-newsboy-f5e.notion.site/0fc558e7cf4a4d669cbde4a5416fe6c0)  
+
 ## 🟪 Project
 ### Team Project Damoa 22.7.14 ~ 22.8.16  
 > 커뮤니티 웹 서비스 개발  
